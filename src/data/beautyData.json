@@ -1,0 +1,305 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Personal Care",
+      "image": "/images/Personal_Care-Image.avif"
+    },
+    {
+      "id": 2,
+      "name": "Skin Care",
+      "image": "/images/Skin_Care-Image.avif"
+    },
+    {
+      "id": 3,
+      "name": "Hair Care",
+      "image": "/images/Hair_Care-Image.avif"
+    },
+    {
+      "id": 4,
+      "name": "Make-up",
+      "image": "/images/Make_up-Image.avif"
+    },
+    {
+      "id": 5,
+      "name": "Fragrances",
+      "image": "/images/Fragrances-Image.avif"
+    },
+    {
+      "id": 6,
+      "name": "Mom & Baby",
+      "image": "/images/mom_and_baby-image.avif"
+    },
+    {
+      "id": 7,
+      "name": "Men's Grooming",
+      "image": "/images/Men's_Grooming-Image.avif"
+    },
+    {
+      "id": 8,
+      "name": "Tools & Appliances",
+      "image": "/images/Tools_and_Appliances-image.avif"
+    }
+  ],
+
+  "winterEssentials": [
+    {
+      "id": 1,
+      "title": "Face Creams",
+      "image": "/images/WinterEssentials/Face_Creams.avif"
+    },
+    {
+      "id": 2,
+      "title": "Body Lotions/Creams",
+      "image": "/images/WinterEssentials/Body_Liotion_and_Creams.avif"
+    },
+    {
+      "id": 3,
+      "title": "Lip balms",
+      "image": "/images/WinterEssentials/Lip_balms.avif"
+    },
+    {
+      "id": 4,
+      "title": "Hand Creams",
+      "image": "/images/WinterEssentials/Hand_Creams.avif"
+    },
+    {
+      "id": 5,
+      "title": "Sunscreens",
+      "image": "/images/WinterEssentials/Sunscreens.avif"
+    },
+    {
+      "id": 6,
+      "title": "Moisturizers",
+      "image": "/images/WinterEssentials/Moisturizers.avif"
+    }
+  ],
+  "Time_For_Glow": [
+    {
+      "id": 1,
+      "title": "Primer",
+      "image": "/images/Time_for_a_Glow/Primer.avif"
+    },
+    {
+      "id": 2,
+      "title": "Foundation",
+      "image": "/images/Time_for_a_Glow/Foundation.avif"
+    },
+    {
+      "id": 3,
+      "title": "Concealer",
+      "image": "/images/Time_for_a_Glow/concealer.avif"
+    },
+    {
+      "id": 4,
+      "title": "Contour",
+      "image": "/images/Time_for_a_Glow/Contour.avif"
+    },
+    {
+      "id": 5,
+      "title": "Compact Powder",
+      "image": "/images/Time_for_a_Glow/Compact_powder.avif"
+    },
+    {
+      "id": 6,
+      "title": "Blushes",
+      "image": "/images/Time_for_a_Glow/Blushes.avif"
+    },
+    {
+      "id": 7,
+      "title": "Highlighters & Illuminators",
+      "image": "/images/Time_for_a_Glow/Highlighters_and_Illiminators.avif"
+    },
+    {
+      "id": 8,
+      "title": "Setting Spray",
+      "image": "/images/Time_for_a_Glow/Setting_Spray.avif"
+    },
+    {
+      "id": 9,
+      "title": "Makeup Removers",
+      "image": "/images/Time_for_a_Glow/Makeup_removers.avif"
+    }
+  ],
+  "Skin_Care_Essentials": [
+    {
+      "id": 1,
+      "title": "Masks",
+      "image": "/images/Skin_Care_Essentials/Masks.avif"
+    },
+    {
+      "id": 2,
+      "title": "Face_Wash",
+      "image": "/images/Skin_Care_Essentials/Face_Wash.avif"
+    },
+    {
+      "id": 3,
+      "title": "Moisturizer",
+      "image": "/images/Skin_Care_Essentials/Moisturizer.avif"
+    },
+    {
+      "id": 4,
+      "title": "Sunscreen",
+      "image": "/images/Skin_Care_Essentials/Sunscreen.avif"
+    },
+    {
+      "id": 5,
+      "title": "Toners & Serums",
+      "image": "/images/Skin_Care_Essentials/Toners_and_Serums.avif"
+    },
+    {
+      "id": 6,
+      "title": "Aromatherapy",
+      "image": "/images/Skin_Care_Essentials/Aromatherapy.avif"
+    }
+  ],
+  "Hair_Care_Essentials": [
+    {
+      "id": 1,
+      "title": "Shampoos",
+      "image": "/images/Hair_Care_Essentials/Shampoos.avif"
+    },
+    {
+      "id": 2,
+      "title": "Conditioners",
+      "image": "/images/Hair_Care_Essentials/Conditioners.avif"
+    },
+    {
+      "id": 3,
+      "title": "Hair Oils",
+      "image": "/images/Hair_Care_Essentials/Hair_Oils.avif"
+    },
+    {
+      "id": 4,
+      "title": "Hair Serum",
+      "image": "/images/Hair_Care_Essentials/Hair_Serum.avif"
+    },
+    {
+      "id": 5,
+      "title": "Hair Gels & Waxes",
+      "image": "/images/Hair_Care_Essentials/Hair_Gels_and_Waxes.avif"
+    },
+    {
+      "id": 6,
+      "title": "Hair Treatment",
+      "image": "/images/Hair_Care_Essentials/Hair_Treatment.avif"
+    }
+    ,
+    {
+      "id": 7,
+      "title": "Hair Color",
+      "image": "/images/Hair_Care_Essentials/Hair_Color.avif"
+    },
+    {
+      "id": 8,
+      "title": "Hair Tools & Accessories",
+      "image": "/images/Hair_Care_Essentials/Hair_Tools_and_Accessories.avif"
+    }
+  ],
+  "Eye_Make_Up": [
+    {
+      "id": 1,
+      "title": "Eyelashes",
+      "image": "/images/Eye Makeup/Eyelashes.avif"
+    },
+    {
+      "id": 2,
+      "title": "Kajal & Kohls",
+      "image": "/images/Eye Makeup/Kajal_and_Kohls.avif"
+    },
+    {
+      "id": 3,
+      "title": "Mascaras",
+      "image": "/images/Eye Makeup/Mascaras.avif"
+    },
+    {
+      "id": 4,
+      "title": "Eyeshadow, Bases & Primers",
+      "image": "/images/Eye Makeup/Eyeshadow_Bases_and_Primers.avif"
+    },
+    {
+      "id": 5,
+      "title": "Eyeliners",
+      "image": "/images/Eye Makeup/Eyeliners.avif"
+    },
+    {
+      "id": 6,
+      "title": "Eyebro Pencils & Enhancers",
+      "image": "/images/Eye Makeup/Eyebro_Pencils_and_Enhancers.avif"
+    },
+    {
+      "id": 7,
+      "title": "Eye Shadow Palettes",
+      "image": "/images/Eye Makeup/Eye_Shadow_Palettes.avif"
+    }
+  ],
+  "Lip_Make_Up": [
+    {
+      "id": 1,
+      "title": "Lip Crayons",
+      "image": "/images/Lip Makeup/Lip_Crayons.avif"
+    },
+    {
+      "id": 2,
+      "title": "Lip Liners",
+      "image": "/images/Lip Makeup/Lip_Liners.avif"
+    },
+    {
+      "id": 3,
+      "title": "Lip Glosses",
+      "image": "/images/Lip Makeup/Lip_Glosses.avif"
+    },
+    {
+      "id": 4,
+      "title": "Lip Stains & Tints",
+      "image": "/images/Lip Makeup/Lip_Stains_and_Tints.avif"
+    },
+    {
+      "id": 5,
+      "title": "Lipstick Primers",
+      "image": "/images/Lip Makeup/Lipstick_Primers.avif"
+    },
+    {
+      "id": 6,
+      "title": "Lipsticks",
+      "image": "/images/Lip Makeup/Lipsticks.avif"
+    },
+    {
+      "id": 7,
+      "title": "Liquid Lipsticks",
+      "image": "/images/Lip Makeup/Liquid_Lipsticks.avif"
+    }
+  ],
+  "Mom_and_Baby": [
+    {
+      "id": 1,
+      "title": "Baby Care",
+      "image": "/images/Mom_and_Baby/baby_care.avif"
+    },
+    {
+      "id": 2,
+      "title": "Baby Bath Time",
+      "image": "/images/Mom_and_Baby/Baby_bath_time.avif"
+    },
+    {
+      "id": 3,
+      "title": "Diapers & Wipes",
+      "image": "/images/Mom_and_Baby/diapers_and_Wipes.avif"
+    },
+    {
+      "id": 4,
+      "title": "Feminine & Hygiene",
+      "image": "/images/Mom_and_Baby/Feminine_and_hygiene.avif"
+    },
+    {
+      "id": 5,
+      "title": "Intimate Care",
+      "image": "/images/Mom_and_Baby/Intimate_Care.avif"
+    },
+    {
+      "id": 6,
+      "title": "Maternity Cares",
+      "image": "/images/Mom_and_Baby/Maternity_Care.avif"
+    }
+  ]
+}
