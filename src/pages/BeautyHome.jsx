@@ -6,6 +6,10 @@ import HairCare from "../components/HairCare";
 import EyeMakeUp from "../components/EyeMakeUp";
 import LipMakeUp from "../components/LipMakeUp"
 import MomAndBaby from "../components/MomAndBaby";
+import MensGrooming from "../components/MensGrooming";
+import Fragrances from "../components/Fragrances";
+import Blogs from "../components/Blogs";
+import Beauty_FAQs from "../components/Beauty_FAQs";
 
 
 
@@ -59,6 +63,11 @@ const BeautyPage = () => {
 <EyeMakeUp/>
 <LipMakeUp />
 <MomAndBaby/>
+<Fragrances/>
+<MensGrooming />
+<Blogs/>
+<Beauty_FAQs/>
+
 
     </div>
   );

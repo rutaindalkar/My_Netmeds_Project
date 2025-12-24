@@ -301,5 +301,113 @@
       "title": "Maternity Cares",
       "image": "/images/Mom_and_Baby/Maternity_Care.avif"
     }
+  ],
+  "Mens_Grooming": [
+    {
+      "id": 1,
+      "title": "Shaving",
+      "image": "/images/Mens_Grooming/Shaving.avif"
+    },
+    {
+      "id": 2,
+      "title": "Trimming",
+      "image": "/images/Mens_Grooming/Shaving.avif"
+    },
+    {
+      "id": 3,
+      "title": "Beard Care",
+      "image": "/images/Mens_Grooming/Beard_Care.avif"
+    },
+    {
+      "id": 4,
+      "title": "Razors & Cardridges",
+      "image": "/images/Mens_Grooming/Razors_and_Cardridges.avif"
+    },
+    {
+      "id": 5,
+      "title": "Aftershave Lotion",
+      "image": "/images/Mens_Grooming/Aftershave_Lotion.avif"
+    },
+    {
+      "id": 6,
+      "title": "Grooming Kit",
+      "image": "/images/Mens_Grooming/Grooming_Kit.avif"
+    }
+  ],
+  "Fragrances_beauty":
+  [
+    {
+      "id": 1,
+      "title": "Womens Fragrances",
+      "image": "/images/fragrances/Womens_Fragrances.avif"
+    },
+    {
+      "id": 2,
+      "title": "Mens Fragrances",
+      "image": "/images/fragrances/Mens_Fragrances.avif"
+    }
+  ],
+  "Blogs_beauty": [
+    {
+      "id": 1,
+      "title": "Mint Leaves Have Soothing Benefits For Irritates Skin",
+      "image": "/images/Blogs_Images/Mint_leaves.png"
+    },
+    {
+      "id": 2,
+      "title": "Calendula:Impressive Benefits Of This Flowering Plant For Radient Skin And Glossy Hair",
+      "image": "/images/Blogs_Images/Calendula.webp"
+    },
+    {
+      "id": 3,
+      "title": "Eczema: DIY Essential Oil-Imbued Skin Care Ritual To Relieve Itchy, Inflamed Skin",
+      "image": "/images/Mens_Grooming/Beard_Care.avif"
+    },
+    {
+      "id": 4,
+      "title": "When To Start Folic Acid Suppliments Before Pregnancy? Uses, Benefits,Sources And Precautions",
+      "image": "/images/Blogs_Images/folic_Acid_suppliment.jfif"
+    },
+    {
+      "id": 5,
+      "title": "What IS Marine Algae? Discover Skin Healing Benefits, Users And Applications",
+      "image": "/images/Blogs_Images/marine_Algae.webp"
+    },
+    {
+      "id": 6,
+      "title": "Mineral vs. Chemical Sunscreens: What Is Better For Skin?",
+      "image": "/images/Blogs_Images/Mineral_Vs_chemical_sunscreen.jfif"
+    },
+    {
+      "id": 7,
+      "title": "6 Best Suppliments To Prevent Cold And Flu: Discover Their Uses, And Benefits",
+      "image": "/images/Blogs_Images/cold_And_Flu.webp"
+    },
+    {
+      "id": 8,
+      "title": "Cut Crease Eye MakeUp: Step-By-Step Guids, Trending Styles, And Tips Fot Stunning Eyes",
+      "image": "/images/Blogs_Images/Eye_Makeup.jfif"
+    },
+    {
+      "id": 9,
+      "title": "Early Pimples In Kids? best Gentle Skincare For Pre_Teens",
+      "image": "/images/Blogs_Images/Early_pimples.webp"
+    },
+    {
+      "id":10,
+      "title": "Diamond Infused Skin Care: 5 Astounding Benefits Of This Precious Stone In Your Beauty Regimen",
+      "image": "/images/Blogs_Images/Diamond_skin_care.webp"
+    },
+    {
+      "id": 11,
+      "title": "Yoga For Postpartum Recovery: 5 Gentle Moves To Rebuild Strength And Endurance",
+      "image": "/images/Blogs_Images/postpartum_Recovery.webp"
+    },
+    {
+      "id": 12,
+      "title": "Leg Press Explained: Benefits, Variations And Common Mistakes To Avoid",
+      "image": "/images/Blogs_Images/Leg_Press.jfif"
+    }
   ]
+
 }
